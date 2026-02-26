@@ -1,0 +1,301 @@
+2026-02-11 19:11:25,879 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-11 19:11:25,879 - app.main - INFO - Application initialized successfully.
+2026-02-11 19:11:26,097 - app.api.routes - INFO - Received evaluation request for applicant_id: api_test_user_001
+2026-02-11 19:11:32,666 - app.api.routes - ERROR - Evaluation failed: 'EvaluationResponse' object has no attribute 'model_version_used'
+2026-02-11 19:13:20,006 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-11 19:13:20,009 - app.main - INFO - Application initialized successfully.
+2026-02-11 19:13:20,211 - app.api.routes - INFO - Received evaluation request for applicant_id: api_test_user_001
+2026-02-11 19:13:30,592 - app.api.routes - ERROR - Evaluation failed: Instance <SnapshotHistory at 0x2c324497920> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)
+2026-02-11 19:14:33,995 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-11 19:14:33,997 - app.main - INFO - Application initialized successfully.
+2026-02-11 19:14:34,163 - app.api.routes - INFO - Received evaluation request for applicant_id: api_test_user_001
+2026-02-11 19:14:43,293 - app.api.routes - INFO - Evaluation successful for api_test_user_001. Index: 71.46
+2026-02-11 19:14:43,304 - app.api.routes - INFO - Generating report for snapshot_id: 9
+2026-02-11 19:14:43,310 - app.services.report_services - ERROR - Failed to generate report: 'SnapshotHistory' object has no attribute 'outcome'
+2026-02-11 19:14:43,310 - app.api.routes - ERROR - Report generation error: 'SnapshotHistory' object has no attribute 'outcome'
+2026-02-11 19:15:51,550 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-11 19:15:51,555 - app.main - INFO - Application initialized successfully.
+2026-02-11 19:15:51,705 - app.api.routes - INFO - Received evaluation request for applicant_id: api_test_user_001
+2026-02-11 19:16:00,367 - app.api.routes - INFO - Evaluation successful for api_test_user_001. Index: 71.46
+2026-02-11 19:16:00,377 - app.api.routes - INFO - Generating report for snapshot_id: 10
+2026-02-11 19:16:00,404 - app.services.report_services - INFO - Report generated successfully: C:\Users\LUIS\Desktop\MCP_CreditBridge\backend\reports\report_api_test_user_001_10.pdf
+2026-02-11 23:57:56,124 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-11 23:57:56,131 - app.main - INFO - Application initialized successfully.
+2026-02-11 23:58:33,306 - app.api.routes - INFO - Received evaluation request for applicant_id: web_user_1770872312867
+2026-02-11 23:58:41,061 - app.api.routes - INFO - Evaluation successful for web_user_1770872312867. Index: 76.27
+2026-02-11 23:58:46,881 - app.api.routes - INFO - Generating report for snapshot_id: 11
+2026-02-11 23:58:47,018 - app.services.report_services - INFO - Report generated successfully: C:\Users\LUIS\Desktop\MCP_CreditBridge\backend\reports\report_web_user_1770872312867_11.pdf
+2026-02-12 00:23:01,728 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 00:23:01,734 - app.main - INFO - Application initialized successfully.
+2026-02-12 00:23:12,863 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 00:23:12,869 - app.main - INFO - Application initialized successfully.
+2026-02-12 00:23:50,568 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 00:23:50,568 - app.main - INFO - Application initialized successfully.
+2026-02-12 00:24:17,639 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 00:24:17,646 - app.main - INFO - Application initialized successfully.
+2026-02-12 00:26:30,193 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 00:26:30,196 - app.main - INFO - Application initialized successfully.
+2026-02-12 00:26:30,224 - app.api.routes - INFO - Received evaluation request for applicant_id: api_test_user_001
+2026-02-12 00:26:39,137 - app.api.routes - INFO - Evaluation successful for api_test_user_001. Index: 71.46
+2026-02-12 00:26:39,148 - app.api.routes - INFO - Generating report for snapshot_id: 1
+2026-02-12 00:26:39,148 - app.api.routes - ERROR - Report generation error: generate_report() missing 1 required positional argument: 'db'
+2026-02-12 00:28:25,033 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 00:28:25,039 - app.main - INFO - Application initialized successfully.
+2026-02-12 00:28:47,343 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 00:28:47,354 - app.main - INFO - Application initialized successfully.
+2026-02-12 00:28:47,388 - app.api.routes - INFO - Received evaluation request for applicant_id: api_test_user_001
+2026-02-12 00:28:57,401 - app.api.routes - INFO - Evaluation successful for api_test_user_001. Index: 71.46
+2026-02-12 00:28:57,415 - app.api.routes - INFO - Generating report for snapshot_id: 2
+2026-02-12 00:35:55,602 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 00:35:55,622 - app.main - INFO - Application initialized successfully.
+2026-02-12 00:36:11,747 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 00:36:11,752 - app.main - INFO - Application initialized successfully.
+2026-02-12 00:36:11,808 - app.api.routes - INFO - Received evaluation request for applicant_id: api_test_user_001
+2026-02-12 00:36:20,745 - app.api.routes - INFO - Evaluation successful for api_test_user_001. Index: 71.46
+2026-02-12 00:36:20,766 - app.api.routes - INFO - Generating report for snapshot_id: 3
+2026-02-12 00:38:10,692 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 00:38:10,698 - app.main - INFO - Application initialized successfully.
+2026-02-12 00:38:10,729 - app.api.routes - INFO - Received evaluation request for applicant_id: api_test_user_001
+2026-02-12 00:38:17,816 - app.api.routes - INFO - Evaluation successful for api_test_user_001. Index: 71.46
+2026-02-12 00:38:17,829 - app.api.routes - INFO - Generating report for snapshot_id: 4
+2026-02-12 00:44:58,846 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 00:44:58,846 - app.main - INFO - Application initialized successfully.
+2026-02-12 00:45:00,352 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 00:45:00,358 - app.main - INFO - Application initialized successfully.
+2026-02-12 00:45:00,380 - app.api.routes - INFO - Received evaluation request for applicant_id: api_test_user_001
+2026-02-12 00:45:06,864 - app.api.routes - INFO - Evaluation successful for api_test_user_001. Index: 75.06
+2026-02-12 00:45:06,876 - app.api.routes - INFO - Generating report for snapshot_id: 5
+2026-02-12 00:45:28,479 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 00:45:28,479 - app.main - INFO - Application initialized successfully.
+2026-02-12 00:45:28,494 - app.api.routes - INFO - Received evaluation request for applicant_id: api_test_user_001
+2026-02-12 00:45:34,063 - app.api.routes - INFO - Evaluation successful for api_test_user_001. Index: 75.06
+2026-02-12 00:45:34,069 - app.api.routes - INFO - Generating report for snapshot_id: 6
+2026-02-12 00:46:54,143 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 00:46:54,147 - app.main - INFO - Application initialized successfully.
+2026-02-12 00:46:54,178 - app.api.routes - INFO - Received evaluation request for applicant_id: api_test_user_001
+2026-02-12 00:47:00,144 - app.api.routes - INFO - Evaluation successful for api_test_user_001. Index: 75.06
+2026-02-12 00:47:00,157 - app.api.routes - INFO - Generating report for snapshot_id: 7
+2026-02-12 00:49:07,179 - app.api.routes - INFO - Received evaluation request for applicant_id: web_user_1770875345721
+2026-02-12 00:49:15,258 - app.api.routes - INFO - Evaluation successful for web_user_1770875345721. Index: 76.27
+2026-02-12 00:49:20,727 - app.api.routes - INFO - Generating report for snapshot_id: 12
+2026-02-12 01:04:05,823 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_5352
+2026-02-12 01:04:14,477 - app.api.routes - INFO - Evaluation successful for applicant_5352. Index: 76.27
+2026-02-12 01:05:57,967 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_7555
+2026-02-12 01:06:09,352 - app.api.routes - INFO - Evaluation successful for applicant_7555. Index: 76.27
+2026-02-12 01:08:59,792 - app.api.routes - INFO - Generating report for snapshot_id: 14
+2026-02-12 01:09:19,352 - app.api.routes - INFO - Generating report for snapshot_id: 14
+2026-02-12 01:11:50,102 - app.api.routes - INFO - Generating report for snapshot_id: 14
+2026-02-12 01:17:20,569 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 01:17:20,576 - app.main - INFO - Application initialized successfully.
+2026-02-12 01:18:29,239 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_7416
+2026-02-12 01:18:46,897 - app.api.routes - INFO - Evaluation successful for applicant_7416. Index: 76.27
+2026-02-12 01:19:07,114 - app.api.routes - INFO - Generating report for snapshot_id: 15
+2026-02-12 01:31:06,193 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_5714
+2026-02-12 01:31:12,433 - app.api.routes - INFO - Evaluation successful for applicant_5714. Index: 76.27
+2026-02-12 01:34:15,132 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_4700
+2026-02-12 01:34:23,479 - app.api.routes - INFO - Evaluation successful for applicant_4700. Index: 61.39
+2026-02-12 01:34:51,701 - app.api.routes - INFO - Generating report for snapshot_id: 17
+2026-02-12 01:35:17,057 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_6740
+2026-02-12 01:35:22,094 - app.api.routes - INFO - Evaluation successful for applicant_6740. Index: 48.58
+2026-02-12 01:36:49,037 - app.api.routes - INFO - Generating report for snapshot_id: 18
+2026-02-12 01:37:33,620 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_3229
+2026-02-12 01:37:39,591 - app.api.routes - INFO - Evaluation successful for applicant_3229. Index: 82.37
+2026-02-12 01:50:52,412 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_1854
+2026-02-12 01:50:58,184 - app.api.routes - INFO - Evaluation successful for applicant_1854. Index: 76.27
+2026-02-12 01:54:08,153 - app.api.routes - INFO - Generating report for snapshot_id: 20
+2026-02-12 01:54:16,348 - app.api.routes - INFO - Generating report for snapshot_id: 20
+2026-02-12 02:14:26,575 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_6109
+2026-02-12 02:14:34,505 - app.api.routes - INFO - Evaluation successful for applicant_6109. Index: 70.67
+2026-02-12 02:14:50,632 - app.api.routes - INFO - Generating report for snapshot_id: 21
+2026-02-12 08:20:01,884 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 08:20:01,887 - app.main - INFO - Application initialized successfully.
+2026-02-12 08:21:39,360 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_8994
+2026-02-12 08:21:46,748 - app.api.routes - INFO - Evaluation successful for applicant_8994. Index: 77.37
+2026-02-12 08:22:08,544 - app.api.routes - INFO - Generating report for snapshot_id: 22
+2026-02-12 08:27:35,043 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_4646
+2026-02-12 08:27:42,348 - app.api.routes - INFO - Evaluation successful for applicant_4646. Index: 76.27
+2026-02-12 08:28:14,388 - app.api.routes - INFO - Generating report for snapshot_id: 23
+2026-02-12 08:55:23,379 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 08:55:23,401 - app.main - INFO - Application initialized successfully.
+2026-02-12 08:55:38,828 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 08:55:38,840 - app.main - INFO - Application initialized successfully.
+2026-02-12 08:56:01,846 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 08:56:01,853 - app.main - INFO - Application initialized successfully.
+2026-02-12 08:57:01,742 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 08:57:01,751 - app.main - INFO - Application initialized successfully.
+2026-02-12 09:00:23,862 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_3254
+2026-02-12 09:00:35,839 - app.api.routes - INFO - Evaluation successful for applicant_3254. Index: 76.27
+2026-02-12 09:00:59,837 - app.api.routes - INFO - Generating report for snapshot_id: 24
+2026-02-12 09:16:50,639 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_0051
+2026-02-12 09:16:57,661 - app.api.routes - INFO - Evaluation successful for applicant_0051. Index: 87.97
+2026-02-12 09:17:10,817 - app.api.routes - INFO - Generating report for snapshot_id: 25
+2026-02-12 09:18:06,944 - app.api.routes - INFO - Generating report for snapshot_id: 25
+2026-02-12 09:23:36,574 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_6125
+2026-02-12 09:23:45,146 - app.api.routes - INFO - Evaluation successful for applicant_6125. Index: 72.67
+2026-02-12 09:24:51,712 - app.api.routes - INFO - Generating report for snapshot_id: 26
+2026-02-12 09:42:19,106 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_8563
+2026-02-12 09:42:25,630 - app.api.routes - INFO - Evaluation successful for applicant_8563. Index: 96.1
+2026-02-12 09:42:52,396 - app.api.routes - INFO - Generating report for snapshot_id: 27
+2026-02-12 09:53:46,926 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_6430
+2026-02-12 09:53:54,691 - app.api.routes - INFO - Evaluation successful for applicant_6430. Index: 78.27
+2026-02-12 09:54:22,162 - app.api.routes - INFO - Generating report for snapshot_id: 28
+2026-02-12 10:11:20,245 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_9667
+2026-02-12 10:11:32,587 - app.api.routes - INFO - Evaluation successful for applicant_9667. Index: 78.82
+2026-02-12 10:12:21,264 - app.api.routes - INFO - Generating report for snapshot_id: 29
+2026-02-12 10:13:59,690 - app.api.routes - INFO - Generating report for snapshot_id: 29
+2026-02-12 10:14:51,331 - app.api.routes - INFO - Generating report for snapshot_id: 29
+2026-02-12 12:48:21,435 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 12:48:21,442 - app.main - INFO - Application initialized successfully.
+2026-02-12 12:52:22,706 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_7904
+2026-02-12 12:52:46,785 - app.api.routes - INFO - Evaluation successful for applicant_7904. Index: 72.67
+2026-02-12 12:52:58,779 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_8392
+2026-02-12 12:53:06,193 - app.api.routes - INFO - Evaluation successful for applicant_8392. Index: 72.67
+2026-02-12 12:53:18,313 - app.api.routes - INFO - Generating report for snapshot_id: 31
+2026-02-12 12:53:37,512 - app.api.routes - INFO - Generating report for snapshot_id: 31
+2026-02-12 12:56:11,440 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_1082
+2026-02-12 12:56:20,406 - app.api.routes - INFO - Evaluation successful for applicant_1082. Index: 26.47
+2026-02-12 12:56:46,047 - app.api.routes - INFO - Generating report for snapshot_id: 32
+2026-02-12 13:04:27,969 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_7561
+2026-02-12 13:04:35,146 - app.api.routes - INFO - Evaluation successful for applicant_7561. Index: 65.92
+2026-02-12 13:04:58,003 - app.api.routes - INFO - Generating report for snapshot_id: 33
+2026-02-12 19:37:08,604 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-12 19:37:08,611 - app.main - INFO - Application initialized successfully.
+2026-02-12 19:37:57,212 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_6893
+2026-02-12 19:38:12,005 - app.api.routes - INFO - Evaluation successful for applicant_6893. Index: 74.66
+2026-02-12 19:38:41,540 - app.api.routes - INFO - Generating report for snapshot_id: 34
+2026-02-12 19:39:54,082 - app.api.routes - INFO - Generating report for snapshot_id: 34
+2026-02-12 19:39:59,151 - app.api.routes - INFO - Generating report for snapshot_id: 34
+2026-02-12 19:40:09,142 - app.api.routes - INFO - Generating report for snapshot_id: 34
+2026-02-12 19:46:42,972 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_2621
+2026-02-12 19:46:48,860 - app.api.routes - INFO - Evaluation successful for applicant_2621. Index: 72.67
+2026-02-12 19:46:58,591 - app.api.routes - INFO - Generating report for snapshot_id: 35
+2026-02-12 19:47:23,248 - app.api.routes - INFO - Generating report for snapshot_id: 35
+2026-02-12 20:05:47,378 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_6956
+2026-02-12 20:05:54,494 - app.api.routes - INFO - Evaluation successful for applicant_6956. Index: 72.67
+2026-02-13 03:29:37,101 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-13 03:29:37,116 - app.main - INFO - Application initialized successfully.
+2026-02-17 09:54:48,731 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-17 09:54:48,741 - app.main - INFO - Application initialized successfully.
+2026-02-17 09:59:03,644 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_3095
+2026-02-17 09:59:12,999 - app.api.routes - INFO - Evaluation successful for applicant_3095. Index: 72.67
+2026-02-17 10:16:18,174 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_7263
+2026-02-17 10:16:27,652 - app.api.routes - INFO - Evaluation successful for applicant_7263. Index: 78.27
+2026-02-17 10:17:05,716 - app.api.routes - INFO - Generating report for snapshot_id: 38
+2026-02-18 16:35:23,778 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-18 16:35:23,790 - app.main - INFO - Application initialized successfully.
+2026-02-18 16:42:23,854 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-18 16:42:23,868 - app.main - INFO - Application initialized successfully.
+2026-02-18 16:42:46,197 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_5863
+2026-02-18 16:42:53,107 - app.api.routes - INFO - Evaluation successful for applicant_5863. Index: 72.07
+2026-02-18 16:43:18,007 - app.api.routes - INFO - Generating report for snapshot_id: 39
+2026-02-18 18:47:43,883 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_2956
+2026-02-18 18:47:53,204 - app.api.routes - INFO - Evaluation successful for applicant_2956. Index: 89.12
+2026-02-18 18:48:11,314 - app.api.routes - INFO - Generating report for snapshot_id: 40
+2026-02-18 18:48:53,682 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_3371
+2026-02-18 18:49:01,723 - app.api.routes - INFO - Evaluation successful for applicant_3371. Index: 89.12
+2026-02-18 18:49:49,641 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_9531
+2026-02-18 18:49:55,869 - app.api.routes - INFO - Evaluation successful for applicant_9531. Index: 89.12
+2026-02-18 18:50:09,417 - app.api.routes - INFO - Generating report for snapshot_id: 42
+2026-02-18 18:56:44,475 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_3997
+2026-02-18 18:56:53,831 - app.api.routes - INFO - Evaluation successful for applicant_3997. Index: 89.12
+2026-02-18 18:57:16,090 - app.api.routes - INFO - Generating report for snapshot_id: 43
+2026-02-18 19:00:11,010 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_0498
+2026-02-18 19:00:19,602 - app.api.routes - INFO - Evaluation successful for applicant_0498. Index: 79.62
+2026-02-18 19:15:56,491 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_5981
+2026-02-18 19:16:04,794 - app.api.routes - INFO - Evaluation successful for applicant_5981. Index: 89.12
+2026-02-18 19:21:32,785 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_2257
+2026-02-18 19:21:40,589 - app.api.routes - INFO - Evaluation successful for applicant_2257. Index: 79.62
+2026-02-18 19:48:47,173 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-18 19:48:47,185 - app.main - INFO - Application initialized successfully.
+2026-02-18 19:48:54,846 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_2524
+2026-02-18 19:49:06,904 - app.api.routes - INFO - Evaluation successful for applicant_2524. Index: 78.27
+2026-02-18 19:49:35,820 - app.api.routes - INFO - Generating report for snapshot_id: 47
+2026-02-18 19:55:20,235 - app.api.routes - INFO - Generating report for snapshot_id: 47
+2026-02-18 19:59:54,742 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-18 19:59:54,749 - app.main - INFO - Application initialized successfully.
+2026-02-18 20:00:40,883 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-18 20:00:40,889 - app.main - INFO - Application initialized successfully.
+2026-02-18 20:00:54,421 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-18 20:00:54,428 - app.main - INFO - Application initialized successfully.
+2026-02-18 20:01:23,466 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-18 20:01:23,477 - app.main - INFO - Application initialized successfully.
+2026-02-18 20:03:20,177 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-18 20:03:20,183 - app.main - INFO - Application initialized successfully.
+2026-02-18 20:03:50,704 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_0360
+2026-02-18 20:04:03,719 - app.api.routes - INFO - Evaluation successful for applicant_0360. Index: 72.67
+2026-02-18 20:04:36,623 - app.api.routes - INFO - Generating report for snapshot_id: 48
+2026-02-18 20:11:47,933 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_7461
+2026-02-18 20:11:54,804 - app.api.routes - INFO - Evaluation successful for applicant_7461. Index: 72.67
+2026-02-18 20:12:09,365 - app.api.routes - INFO - Generating report for snapshot_id: 49
+2026-02-18 20:13:25,855 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_5509
+2026-02-18 20:13:32,123 - app.api.routes - INFO - Evaluation successful for applicant_5509. Index: 89.12
+2026-02-18 20:14:07,455 - app.api.routes - INFO - Generating report for snapshot_id: 50
+2026-02-18 20:15:33,569 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_3245
+2026-02-18 20:15:37,904 - app.api.routes - INFO - Evaluation successful for applicant_3245. Index: 95.35
+2026-02-18 20:15:56,870 - app.api.routes - INFO - Generating report for snapshot_id: 51
+2026-02-18 23:53:47,346 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-18 23:53:47,354 - app.main - INFO - Application initialized successfully.
+2026-02-19 00:15:53,975 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-19 00:15:53,986 - app.main - INFO - Application initialized successfully.
+2026-02-19 00:16:34,879 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_4476
+2026-02-19 00:16:57,004 - app.api.routes - INFO - Evaluation successful for applicant_4476. Index: 72.67
+2026-02-19 00:17:16,838 - app.api.routes - INFO - Generating report for snapshot_id: 52
+2026-02-19 00:24:51,184 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-19 00:24:51,191 - app.main - INFO - Application initialized successfully.
+2026-02-19 00:26:39,182 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-19 00:26:39,193 - app.main - INFO - Application initialized successfully.
+2026-02-19 00:26:53,765 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_3436
+2026-02-19 00:27:14,979 - app.api.routes - INFO - Evaluation successful for applicant_3436. Index: 78.27
+2026-02-19 00:28:04,891 - app.api.routes - INFO - Generating report for snapshot_id: 53, locale: en
+2026-02-19 00:32:36,129 - app.api.routes - INFO - Generating report for snapshot_id: 53, locale: en
+2026-02-19 00:33:30,700 - app.api.routes - INFO - Generating report for snapshot_id: 53, locale: en
+2026-02-19 00:34:38,155 - app.api.routes - INFO - Generating report for snapshot_id: 53, locale: en
+2026-02-19 10:30:21,238 - app.api.routes - INFO - Generating report for snapshot_id: 53, locale: en
+2026-02-19 10:40:45,231 - app.api.routes - INFO - Generating report for snapshot_id: 53, locale: en
+2026-02-19 10:54:38,965 - app.api.routes - INFO - Generating report for snapshot_id: 53, locale: en
+2026-02-19 10:55:53,474 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_3098
+2026-02-19 10:56:11,808 - app.api.routes - INFO - Evaluation successful for applicant_3098. Index: 68.57
+2026-02-19 11:01:36,977 - app.api.routes - INFO - Generating report for snapshot_id: 54, locale: en
+2026-02-19 11:08:23,834 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_3395
+2026-02-19 11:08:48,857 - app.api.routes - INFO - Evaluation successful for applicant_3395. Index: 94.9
+2026-02-19 11:09:03,100 - app.api.routes - INFO - Generating report for snapshot_id: 55, locale: en
+2026-02-19 12:32:27,394 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_6924
+2026-02-19 12:32:45,681 - app.api.routes - INFO - Evaluation successful for applicant_6924. Index: 72.67
+2026-02-19 12:33:59,403 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_9038
+2026-02-19 12:34:21,850 - app.api.routes - INFO - Evaluation successful for applicant_9038. Index: 72.67
+2026-02-19 12:34:51,399 - app.api.routes - INFO - Generating report for snapshot_id: 57, locale: en
+2026-02-19 16:22:59,023 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_8530
+2026-02-19 16:23:21,107 - app.api.routes - INFO - Evaluation successful for applicant_8530. Index: 72.67
+2026-02-22 10:56:33,375 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-22 10:56:33,375 - app.main - INFO - Application initialized successfully.
+2026-02-22 10:57:08,120 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-22 10:57:08,136 - app.main - INFO - Application initialized successfully.
+2026-02-22 11:23:37,428 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_6876
+2026-02-22 11:23:57,289 - app.api.routes - INFO - Evaluation successful for applicant_6876. Index: 78.27
+2026-02-22 11:25:05,031 - app.api.routes - INFO - Generating report for snapshot_id: 59, locale: en
+2026-02-22 15:41:06,168 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_5639
+2026-02-22 15:41:25,800 - app.api.routes - INFO - Evaluation successful for applicant_5639. Index: 78.27
+2026-02-23 12:24:06,794 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-23 12:24:06,800 - app.main - INFO - Application initialized successfully.
+2026-02-23 14:06:43,789 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_3218
+2026-02-23 14:07:10,139 - app.api.routes - INFO - Evaluation successful for applicant_3218. Index: 78.27
+2026-02-23 14:15:14,191 - app.api.routes - INFO - Generating report for snapshot_id: 61, locale: en
+2026-02-23 16:16:37,736 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_6093
+2026-02-23 16:16:56,109 - app.api.routes - INFO - Evaluation successful for applicant_6093. Index: 92.12
+2026-02-23 16:17:36,085 - app.api.routes - INFO - Generating report for snapshot_id: 62, locale: en
+2026-02-25 09:57:53,113 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-25 09:57:53,122 - app.main - INFO - Application initialized successfully.
+2026-02-25 10:13:39,804 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_9233
+2026-02-25 10:14:02,371 - app.api.routes - INFO - Evaluation successful for applicant_9233. Index: 72.67
+2026-02-26 09:59:34,781 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-26 09:59:34,792 - app.main - INFO - Application initialized successfully.
+2026-02-26 10:56:04,136 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_3588
+2026-02-26 10:56:25,535 - app.api.routes - INFO - Evaluation successful for applicant_3588. Index: 72.67
+2026-02-26 10:56:36,244 - app.api.routes - INFO - Generating report for snapshot_id: 64, locale: en
+2026-02-26 13:10:05,623 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_4936
+2026-02-26 13:10:23,353 - app.api.routes - INFO - Evaluation successful for applicant_4936. Index: 72.67
+2026-02-26 16:13:37,660 - app.main - INFO - Initializing MCP-CreditBridge V2 API (2.0.0)...
+2026-02-26 16:13:37,679 - app.main - INFO - Application initialized successfully.
+2026-02-26 16:29:23,465 - app.api.routes - INFO - Received evaluation request for applicant_id: applicant_2164
+2026-02-26 16:30:00,486 - app.api.routes - INFO - Evaluation successful for applicant_2164. Index: 78.27
+2026-02-26 16:30:32,166 - app.api.routes - INFO - Generating report for snapshot_id: 66, locale: en

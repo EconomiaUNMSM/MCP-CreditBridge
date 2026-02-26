@@ -1,0 +1,29 @@
+{
+  "model_version": "mcp_rf_v20260211",
+  "training_date": "2026-02-11T18:02:45.594383",
+  "source": "synthetic_csv",
+  "metrics": {
+    "auc": 0.7768,
+    "f1": 0.8783,
+    "n_samples": 5000
+  },
+  "features": [
+    "monthly_income",
+    "income_stability_months",
+    "debt_ratio",
+    "savings_months_cover",
+    "language_level",
+    "housing_stability_months",
+    "local_references",
+    "employment_type_encoded",
+    "ngo_validation_encoded",
+    "volatility_of_income",
+    "income_growth_trend",
+    "asset_index",
+    "punctualidad_reportada",
+    "consistencia_declarativa",
+    "digital_interaction_score",
+    "zone_risk_index",
+    "vulnerability_score"
+  ]
+}

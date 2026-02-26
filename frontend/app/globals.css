@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Base Accessibility Configs */
+body.contrast-more {
+  filter: contrast(135%) saturate(115%);
+}
+
+/* Force darker texts and darker borders for High Contrast Mode */
+.contrast-more .text-slate-500,
+.contrast-more .text-slate-400 {
+  color: #1e293b !important;
+  /* text-slate-800 */
+  font-weight: 600 !important;
+}
+
+.contrast-more .border-slate-100,
+.contrast-more .border-slate-200 {
+  border-color: #94a3b8 !important;
+  /* border-slate-400 */
+}
+
+.contrast-more .bg-slate-50 {
+  background-color: #f1f5f9 !important;
+  /* bg-slate-100 */
+}
+
+/* Screen Reader Active: Enhance Focus Indicators Globally */
+body.screen-reader-active *:focus,
+body.screen-reader-active *:focus-visible {
+  outline: 4px solid #2563eb !important;
+  outline-offset: 2px !important;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
