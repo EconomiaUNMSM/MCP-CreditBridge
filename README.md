@@ -12,6 +12,30 @@
 
 ---
 
+## Galería de la Plataforma
+
+A continuación se presentan capturas del sistema en funcionamiento:
+
+- **Landing Page Inicial**: La página principal de presentación del proyecto.
+  ![Página Principal](assets/Pagina_Principal.png)
+
+- **Login**: Sistema de acceso básico inicial.
+  ![Login](assets/Login.png)
+
+- **Dashboard General**: Pantalla posterior al logeo mostrando métricas clave, el índice de inclusión global y últimas evaluaciones de la institución.
+  ![Dashboard Inicial](assets/Dashboard_inicial.png)
+
+- **Análisis de Crédito**: Vista detallada de una evaluación crediticia estructurando métricas y la interpretación narrativa generada por los agentes LLM.
+  ![Análisis de Crédito](assets/Analisis_Credito.png)
+
+- **Historial Crediticio**: Seguimiento visual en línea de tiempo de los solicitantes analizados.
+  ![Historial crediticio](assets/Historial_crediticio.png)
+
+- **Análisis Compuesto**: Vista de métricas globales distribuidas estratégicamente por sectores.
+  ![Análisis compuesto](assets/Analisis_compuesto.png)
+
+---
+
 ## Estructura del Proyecto
 
 El repositorio está dividido en dos partes principales:
